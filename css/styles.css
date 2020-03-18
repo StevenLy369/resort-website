@@ -47,12 +47,13 @@ a{
    overflow: hidden;
 
    width: 100%;
-   background-image: url(./img/resort2.jpg);
+   background-image: url(/img/resort2.jpg);
    height: 250px;
    
    background-position: center;
    background-size: cover;
    
  }
+ 
  
   
